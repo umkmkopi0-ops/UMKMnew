@@ -82,7 +82,7 @@ function AppInner() {
 
 /* ─────────────────────────────────────────────────────────
  * App (default export)
- * Wraps AppInner in BrowserRouter at the top level.
+ * Wraps AppInner in BrowserRouter at the top level
  * ───────────────────────────────────────────────────────── */
 export default function App() {
   return (
